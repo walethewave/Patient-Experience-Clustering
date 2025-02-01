@@ -138,6 +138,7 @@ recommendations = recommendations[recommendations['rating_drug'] > 8]
 
 ---
 ![Screenshot 2025-01-31 200320](https://github.com/user-attachments/assets/6cc6e637-3523-49b1-bfed-5ce7f0d0f9ea)
+![WhatsApp Image 2025-02-01 at 16 08 45_dfb752d6](https://github.com/user-attachments/assets/c003a96b-9128-441d-9ac5-6ad9c569bca5)
 
 # Visualization
 
