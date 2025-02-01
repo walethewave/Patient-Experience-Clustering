@@ -137,6 +137,7 @@ recommendations = recommendations[recommendations['rating_drug'] > 8]
 ```
 
 ---
+![Screenshot 2025-01-31 200320](https://github.com/user-attachments/assets/6cc6e637-3523-49b1-bfed-5ce7f0d0f9ea)
 
 # Visualization
 
@@ -208,6 +209,3 @@ jupyter notebook Patient.ipynb
 - Execute cells to see clustering results, recommendations, and interactive visualizations.
 ```
 
----
-
-Feel free to adjust any sections to better match your project's details or your personal style. This Markdown format should make your README stand out and clearly explain the purpose, methodology, and usage of your project.
